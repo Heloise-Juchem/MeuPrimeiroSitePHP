@@ -1,0 +1,19 @@
+{
+  "nome": "Heloise Juchem",
+  "idade": 16,
+  "naturalidade": "Toledo",
+  "nacionalidade": "Brasil"
+},
+{
+  "nome": "Valdriana Pinho Krupniski",
+  "idade": 17,
+  "naturalidade": "Cascavel",
+  "nacionalidade": "Brasil",
+  "idade_filhos": [15, 17, 24],
+  "info_filhos": {
+    "nomes": ["Nicole Beatriz Garcia", "Heloise Gabrieli Juchem", "Eduardo Caittano Juchem"]
+  }
+},
+{
+  "nome": "Nicolas Garcia"
+}
